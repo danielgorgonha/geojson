@@ -1,0 +1,1204 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Cachoeira do Bom Jesus",
+        "inclinacao_max": 33.02,
+        "inclinacao_media": 7.58,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Alta",
+        "distancia_centro_km": 22.8,
+        "srtm_metrics": {
+          "max_slope_deg": 33.02,
+          "mean_slope_deg": 7.58,
+          "min_slope_deg": 0.0,
+          "risk_level": "Alta"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.423675,
+          -27.426531
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Canasvieiras",
+        "inclinacao_max": 31.46,
+        "inclinacao_media": 2.77,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Média",
+        "distancia_centro_km": 20.6,
+        "srtm_metrics": {
+          "max_slope_deg": 31.46,
+          "mean_slope_deg": 2.77,
+          "min_slope_deg": 0.0,
+          "risk_level": "Média"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.460244,
+          -27.429567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Daniela",
+        "inclinacao_max": 26.63,
+        "inclinacao_media": 1.21,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Média",
+        "distancia_centro_km": 16.24,
+        "srtm_metrics": {
+          "max_slope_deg": 26.63,
+          "mean_slope_deg": 1.21,
+          "min_slope_deg": 0.0,
+          "risk_level": "Média"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.53125,
+          -27.448954
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Ingleses do Rio Vermelho",
+        "inclinacao_max": 24.9,
+        "inclinacao_media": 1.97,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Média",
+        "distancia_centro_km": 23.05,
+        "srtm_metrics": {
+          "max_slope_deg": 24.9,
+          "mean_slope_deg": 1.97,
+          "min_slope_deg": 0.0,
+          "risk_level": "Média"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.401143,
+          -27.439907
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Jurerê Internacional",
+        "inclinacao_max": 9.46,
+        "inclinacao_media": 1.27,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Média",
+        "distancia_centro_km": 17.85,
+        "srtm_metrics": {
+          "max_slope_deg": 9.46,
+          "mean_slope_deg": 1.27,
+          "min_slope_deg": 0.0,
+          "risk_level": "Média"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.502748,
+          -27.440266
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Jurerê",
+        "inclinacao_max": 30.1,
+        "inclinacao_media": 2.2,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Média",
+        "distancia_centro_km": 18.27,
+        "srtm_metrics": {
+          "max_slope_deg": 30.1,
+          "mean_slope_deg": 2.2,
+          "min_slope_deg": 0.0,
+          "risk_level": "Média"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.507373,
+          -27.43509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Ponta das Canas",
+        "inclinacao_max": 32.91,
+        "inclinacao_media": 6.62,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Alta",
+        "distancia_centro_km": 25.39,
+        "srtm_metrics": {
+          "max_slope_deg": 32.91,
+          "mean_slope_deg": 6.62,
+          "min_slope_deg": 0.0,
+          "risk_level": "Alta"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.427429,
+          -27.396429
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Praia Brava",
+        "inclinacao_max": 40.5,
+        "inclinacao_media": 8.39,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Alta",
+        "distancia_centro_km": 25.88,
+        "srtm_metrics": {
+          "max_slope_deg": 40.5,
+          "mean_slope_deg": 8.39,
+          "min_slope_deg": 0.0,
+          "risk_level": "Alta"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.415825,
+          -27.397613
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Sambaqui",
+        "inclinacao_max": 37.5,
+        "inclinacao_media": 9.97,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Alta",
+        "distancia_centro_km": 11.63,
+        "srtm_metrics": {
+          "max_slope_deg": 37.5,
+          "mean_slope_deg": 9.97,
+          "min_slope_deg": 0.0,
+          "risk_level": "Alta"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.526831,
+          -27.492403
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Santo Antônio de Lisboa",
+        "inclinacao_max": 37.01,
+        "inclinacao_media": 5.73,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Alta",
+        "distancia_centro_km": 10.44,
+        "srtm_metrics": {
+          "max_slope_deg": 37.01,
+          "mean_slope_deg": 5.73,
+          "min_slope_deg": 0.0,
+          "risk_level": "Alta"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.51887,
+          -27.506151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Ratones",
+        "inclinacao_max": 35.12,
+        "inclinacao_media": 8.62,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Alta",
+        "distancia_centro_km": 11.94,
+        "srtm_metrics": {
+          "max_slope_deg": 35.12,
+          "mean_slope_deg": 8.62,
+          "min_slope_deg": 0.0,
+          "risk_level": "Alta"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.490399,
+          -27.504516
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Vargem Grande",
+        "inclinacao_max": 32.1,
+        "inclinacao_media": 9.2,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Alta",
+        "distancia_centro_km": 18.17,
+        "srtm_metrics": {
+          "max_slope_deg": 32.1,
+          "mean_slope_deg": 9.2,
+          "min_slope_deg": 0.0,
+          "risk_level": "Alta"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.44852,
+          -27.462082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Vargem Pequena",
+        "inclinacao_max": 30.51,
+        "inclinacao_media": 6.8,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Alta",
+        "distancia_centro_km": 16.29,
+        "srtm_metrics": {
+          "max_slope_deg": 30.51,
+          "mean_slope_deg": 6.8,
+          "min_slope_deg": 0.0,
+          "risk_level": "Alta"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.461676,
+          -27.474479
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Vargem do Bom Jesus",
+        "inclinacao_max": 39.26,
+        "inclinacao_media": 8.1,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Alta",
+        "distancia_centro_km": 20.67,
+        "srtm_metrics": {
+          "max_slope_deg": 39.26,
+          "mean_slope_deg": 8.1,
+          "min_slope_deg": 0.0,
+          "risk_level": "Alta"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.429041,
+          -27.446959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Barra da Lagoa",
+        "inclinacao_max": 42.81,
+        "inclinacao_media": 6.46,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Alta",
+        "distancia_centro_km": 13.26,
+        "srtm_metrics": {
+          "max_slope_deg": 42.81,
+          "mean_slope_deg": 6.46,
+          "min_slope_deg": 0.0,
+          "risk_level": "Alta"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.425835,
+          -27.574778
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Lagoa da Conceição",
+        "inclinacao_max": 35.89,
+        "inclinacao_media": 2.29,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Média",
+        "distancia_centro_km": 10.88,
+        "srtm_metrics": {
+          "max_slope_deg": 35.89,
+          "mean_slope_deg": 2.29,
+          "min_slope_deg": 0.0,
+          "risk_level": "Média"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.451581,
+          -27.569719
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Rio Vermelho",
+        "inclinacao_max": 43.39,
+        "inclinacao_media": 18.03,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Crítica",
+        "distancia_centro_km": 30.56,
+        "srtm_metrics": {
+          "max_slope_deg": 43.39,
+          "mean_slope_deg": 18.03,
+          "min_slope_deg": 0.0,
+          "risk_level": "Crítica"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.777354,
+          -27.788652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "São João do Rio Vermelho",
+        "inclinacao_max": 12.77,
+        "inclinacao_media": 2.09,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Média",
+        "distancia_centro_km": 19.08,
+        "srtm_metrics": {
+          "max_slope_deg": 12.77,
+          "mean_slope_deg": 2.09,
+          "min_slope_deg": 0.0,
+          "risk_level": "Média"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.409638,
+          -27.483806
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Agronômica",
+        "inclinacao_max": 35.98,
+        "inclinacao_media": 7.62,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Alta",
+        "distancia_centro_km": 2.82,
+        "srtm_metrics": {
+          "max_slope_deg": 35.98,
+          "mean_slope_deg": 7.62,
+          "min_slope_deg": 0.0,
+          "risk_level": "Alta"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.535717,
+          -27.578145
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Centro",
+        "inclinacao_max": 47.29,
+        "inclinacao_media": 6.61,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Alta",
+        "distancia_centro_km": 0.98,
+        "srtm_metrics": {
+          "max_slope_deg": 47.29,
+          "mean_slope_deg": 6.61,
+          "min_slope_deg": 0.0,
+          "risk_level": "Alta"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.549481,
+          -27.597203
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Córrego Grande",
+        "inclinacao_max": 30.53,
+        "inclinacao_media": 8.02,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Alta",
+        "distancia_centro_km": 5.6,
+        "srtm_metrics": {
+          "max_slope_deg": 30.53,
+          "mean_slope_deg": 8.02,
+          "min_slope_deg": 0.0,
+          "risk_level": "Alta"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.5022,
+          -27.599711
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Itacorubi",
+        "inclinacao_max": 35.02,
+        "inclinacao_media": 6.77,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Alta",
+        "distancia_centro_km": 5.5,
+        "srtm_metrics": {
+          "max_slope_deg": 35.02,
+          "mean_slope_deg": 6.77,
+          "min_slope_deg": 0.0,
+          "risk_level": "Alta"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.504426,
+          -27.58158
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "João Paulo",
+        "inclinacao_max": 30.26,
+        "inclinacao_media": 6.93,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Alta",
+        "distancia_centro_km": 5.95,
+        "srtm_metrics": {
+          "max_slope_deg": 30.26,
+          "mean_slope_deg": 6.93,
+          "min_slope_deg": 0.0,
+          "risk_level": "Alta"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.511257,
+          -27.560151
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "José Mendes",
+        "inclinacao_max": 32.63,
+        "inclinacao_media": 4.7,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Média",
+        "distancia_centro_km": 2.4,
+        "srtm_metrics": {
+          "max_slope_deg": 32.63,
+          "mean_slope_deg": 4.7,
+          "min_slope_deg": 0.0,
+          "risk_level": "Média"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.546274,
+          -27.612261
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Monte Verde",
+        "inclinacao_max": 35.74,
+        "inclinacao_media": 12.83,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Alta",
+        "distancia_centro_km": 7.22,
+        "srtm_metrics": {
+          "max_slope_deg": 35.74,
+          "mean_slope_deg": 12.83,
+          "min_slope_deg": 0.0,
+          "risk_level": "Alta"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.496106,
+          -27.559504
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Pantanal",
+        "inclinacao_max": 33.06,
+        "inclinacao_media": 10.07,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Alta",
+        "distancia_centro_km": 4.05,
+        "srtm_metrics": {
+          "max_slope_deg": 33.06,
+          "mean_slope_deg": 10.07,
+          "min_slope_deg": 0.0,
+          "risk_level": "Alta"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.521142,
+          -27.608578
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Santa Mônica",
+        "inclinacao_max": 22.07,
+        "inclinacao_media": 2.36,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Média",
+        "distancia_centro_km": 4.83,
+        "srtm_metrics": {
+          "max_slope_deg": 22.07,
+          "mean_slope_deg": 2.36,
+          "min_slope_deg": 0.0,
+          "risk_level": "Média"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.509703,
+          -27.589928
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Saco dos Limões",
+        "inclinacao_max": 35.3,
+        "inclinacao_media": 9.47,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Alta",
+        "distancia_centro_km": 2.89,
+        "srtm_metrics": {
+          "max_slope_deg": 35.3,
+          "mean_slope_deg": 9.47,
+          "min_slope_deg": 0.0,
+          "risk_level": "Alta"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.534344,
+          -27.608268
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Saco Grande",
+        "inclinacao_max": 34.46,
+        "inclinacao_media": 9.54,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Alta",
+        "distancia_centro_km": 8.02,
+        "srtm_metrics": {
+          "max_slope_deg": 34.46,
+          "mean_slope_deg": 9.54,
+          "min_slope_deg": 0.0,
+          "risk_level": "Alta"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.500526,
+          -27.5428
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Trindade",
+        "inclinacao_max": 55.29,
+        "inclinacao_media": 6.81,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Alta",
+        "distancia_centro_km": 3.59,
+        "srtm_metrics": {
+          "max_slope_deg": 55.29,
+          "mean_slope_deg": 6.81,
+          "min_slope_deg": 0.0,
+          "risk_level": "Alta"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.5224,
+          -27.589383
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Carvoeira",
+        "inclinacao_max": 29.83,
+        "inclinacao_media": 9.09,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Alta",
+        "distancia_centro_km": 3.2,
+        "srtm_metrics": {
+          "max_slope_deg": 29.83,
+          "mean_slope_deg": 9.09,
+          "min_slope_deg": 0.0,
+          "risk_level": "Alta"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.528099,
+          -27.603566
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Armação do Pântano do Sul",
+        "inclinacao_max": 40.71,
+        "inclinacao_media": 9.27,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Alta",
+        "distancia_centro_km": 17.95,
+        "srtm_metrics": {
+          "max_slope_deg": 40.71,
+          "mean_slope_deg": 9.27,
+          "min_slope_deg": 0.0,
+          "risk_level": "Alta"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.507687,
+          -27.749039
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Campeche",
+        "inclinacao_max": 35.74,
+        "inclinacao_media": 7.17,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Alta",
+        "distancia_centro_km": 10.56,
+        "srtm_metrics": {
+          "max_slope_deg": 35.74,
+          "mean_slope_deg": 7.17,
+          "min_slope_deg": 0.0,
+          "risk_level": "Alta"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.500579,
+          -27.67358
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Carianos",
+        "inclinacao_max": 7.23,
+        "inclinacao_media": 1.45,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Média",
+        "distancia_centro_km": 8.06,
+        "srtm_metrics": {
+          "max_slope_deg": 7.23,
+          "mean_slope_deg": 1.45,
+          "min_slope_deg": 0.0,
+          "risk_level": "Média"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.538668,
+          -27.664034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Costeira do Pirajubaé",
+        "inclinacao_max": 38.23,
+        "inclinacao_media": 10.14,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Alta",
+        "distancia_centro_km": 5.72,
+        "srtm_metrics": {
+          "max_slope_deg": 38.23,
+          "mean_slope_deg": 10.14,
+          "min_slope_deg": 0.0,
+          "risk_level": "Alta"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.522797,
+          -27.634175
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Pântano do Sul",
+        "inclinacao_max": 33.57,
+        "inclinacao_media": 9.11,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Alta",
+        "distancia_centro_km": 21.26,
+        "srtm_metrics": {
+          "max_slope_deg": 33.57,
+          "mean_slope_deg": 9.11,
+          "min_slope_deg": 0.0,
+          "risk_level": "Alta"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.507233,
+          -27.77988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Ribeirão da Ilha",
+        "inclinacao_max": 51.68,
+        "inclinacao_media": 13.6,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Alta",
+        "distancia_centro_km": 13.18,
+        "srtm_metrics": {
+          "max_slope_deg": 51.68,
+          "mean_slope_deg": 13.6,
+          "min_slope_deg": 0.0,
+          "risk_level": "Alta"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.557334,
+          -27.712431
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Rio Tavares",
+        "inclinacao_max": 31.12,
+        "inclinacao_media": 3.48,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Média",
+        "distancia_centro_km": 8.05,
+        "srtm_metrics": {
+          "max_slope_deg": 31.12,
+          "mean_slope_deg": 3.48,
+          "min_slope_deg": 0.0,
+          "risk_level": "Média"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.520376,
+          -27.657679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Tapera",
+        "inclinacao_max": 37.84,
+        "inclinacao_media": 10.15,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Alta",
+        "distancia_centro_km": 21.56,
+        "srtm_metrics": {
+          "max_slope_deg": 37.84,
+          "mean_slope_deg": 10.15,
+          "min_slope_deg": 0.0,
+          "risk_level": "Alta"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.561275,
+          -27.788064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Morro das Pedras",
+        "inclinacao_max": 33.4,
+        "inclinacao_media": 5.58,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Alta",
+        "distancia_centro_km": 14.34,
+        "srtm_metrics": {
+          "max_slope_deg": 33.4,
+          "mean_slope_deg": 5.58,
+          "min_slope_deg": 0.0,
+          "risk_level": "Alta"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.50655,
+          -27.714329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Caieira da Barra do Sul",
+        "inclinacao_max": 37.15,
+        "inclinacao_media": 9.41,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Alta",
+        "distancia_centro_km": 24.77,
+        "srtm_metrics": {
+          "max_slope_deg": 37.15,
+          "mean_slope_deg": 9.41,
+          "min_slope_deg": 0.0,
+          "risk_level": "Alta"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.56388,
+          -27.816976
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Abraão",
+        "inclinacao_max": 25.16,
+        "inclinacao_media": 4.4,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Média",
+        "distancia_centro_km": 3.74,
+        "srtm_metrics": {
+          "max_slope_deg": 25.16,
+          "mean_slope_deg": 4.4,
+          "min_slope_deg": 0.0,
+          "risk_level": "Média"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.593524,
+          -27.606328
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Balneário",
+        "inclinacao_max": 14.76,
+        "inclinacao_media": 1.56,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Média",
+        "distancia_centro_km": 2.71,
+        "srtm_metrics": {
+          "max_slope_deg": 14.76,
+          "mean_slope_deg": 1.56,
+          "min_slope_deg": 0.0,
+          "risk_level": "Média"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.581138,
+          -27.579596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Bom Abrigo",
+        "inclinacao_max": 25.16,
+        "inclinacao_media": 3.21,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Média",
+        "distancia_centro_km": 4.13,
+        "srtm_metrics": {
+          "max_slope_deg": 25.16,
+          "mean_slope_deg": 3.21,
+          "min_slope_deg": 0.0,
+          "risk_level": "Média"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.59494,
+          -27.611804
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Capoeiras",
+        "inclinacao_max": 17.55,
+        "inclinacao_media": 4.76,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Média",
+        "distancia_centro_km": 3.14,
+        "srtm_metrics": {
+          "max_slope_deg": 17.55,
+          "mean_slope_deg": 4.76,
+          "min_slope_deg": 0.0,
+          "risk_level": "Média"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.590008,
+          -27.597333
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Coqueiros",
+        "inclinacao_max": 28.67,
+        "inclinacao_media": 3.84,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Média",
+        "distancia_centro_km": 2.95,
+        "srtm_metrics": {
+          "max_slope_deg": 28.67,
+          "mean_slope_deg": 3.84,
+          "min_slope_deg": 0.0,
+          "risk_level": "Média"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.580844,
+          -27.611202
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Estreito",
+        "inclinacao_max": 16.72,
+        "inclinacao_media": 4.77,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Média",
+        "distancia_centro_km": 3.21,
+        "srtm_metrics": {
+          "max_slope_deg": 16.72,
+          "mean_slope_deg": 4.77,
+          "min_slope_deg": 0.0,
+          "risk_level": "Média"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.59048,
+          -27.58836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Itaguaçu",
+        "inclinacao_max": 25.16,
+        "inclinacao_media": 3.35,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Média",
+        "distancia_centro_km": 4.02,
+        "srtm_metrics": {
+          "max_slope_deg": 25.16,
+          "mean_slope_deg": 3.35,
+          "min_slope_deg": 0.0,
+          "risk_level": "Média"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.59155,
+          -27.614656
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Jardim Atlântico",
+        "inclinacao_max": 16.6,
+        "inclinacao_media": 2.74,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Média",
+        "distancia_centro_km": 4.28,
+        "srtm_metrics": {
+          "max_slope_deg": 16.6,
+          "mean_slope_deg": 2.74,
+          "min_slope_deg": 0.0,
+          "risk_level": "Média"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.596799,
+          -27.575492
+        ]
+      }
+    }
+  ],
+  "properties": {
+    "name": "SRTM Analysis - Florianópolis",
+    "description": "Análise de inclinação por bairro usando dados SRTM da NASA",
+    "source": "NASA SRTM",
+    "date": "2025-10-05T03:07:30.245995",
+    "total_features": 49,
+    "bounds_florianopolis": {
+      "west": -48.7242431,
+      "south": -27.917059,
+      "east": -48.3585929,
+      "north": -27.3804967
+    },
+    "srtm_analysis": {
+      "total_bairros": 49,
+      "classificacao_distribuicao": {
+        "Alta": 29,
+        "Média": 19,
+        "Crítica": 1
+      },
+      "inclinacao_max_geral": 55.29,
+      "inclinacao_media_geral": 6.492040816326531
+    }
+  }
+}
