@@ -148,54 +148,6 @@
     {
       "type": "Feature",
       "properties": {
-        "bairro": "Ponta das Canas",
-        "inclinacao_max": 32.91,
-        "inclinacao_media": 6.62,
-        "inclinacao_min": 0.0,
-        "classificacao_risco": "Alta",
-        "distancia_centro_km": 25.39,
-        "srtm_metrics": {
-          "max_slope_deg": 32.91,
-          "mean_slope_deg": 6.62,
-          "min_slope_deg": 0.0,
-          "risk_level": "Alta"
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.427429,
-          -27.396429
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "bairro": "Praia Brava",
-        "inclinacao_max": 40.5,
-        "inclinacao_media": 8.39,
-        "inclinacao_min": 0.0,
-        "classificacao_risco": "Alta",
-        "distancia_centro_km": 25.88,
-        "srtm_metrics": {
-          "max_slope_deg": 40.5,
-          "mean_slope_deg": 8.39,
-          "min_slope_deg": 0.0,
-          "risk_level": "Alta"
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.415825,
-          -27.397613
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
         "bairro": "Sambaqui",
         "inclinacao_max": 37.5,
         "inclinacao_media": 9.97,
@@ -382,30 +334,6 @@
         "coordinates": [
           -48.451581,
           -27.569719
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "bairro": "Rio Vermelho",
-        "inclinacao_max": 43.39,
-        "inclinacao_media": 18.03,
-        "inclinacao_min": 0.0,
-        "classificacao_risco": "Crítica",
-        "distancia_centro_km": 30.56,
-        "srtm_metrics": {
-          "max_slope_deg": 43.39,
-          "mean_slope_deg": 18.03,
-          "min_slope_deg": 0.0,
-          "risk_level": "Crítica"
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.777354,
-          -27.788652
         ]
       }
     },
@@ -1179,19 +1107,21 @@
     }
   ],
   "properties": {
-    "name": "SRTM Analysis - Florianópolis",
-    "description": "Análise de inclinação por bairro usando dados SRTM da NASA",
+    "name": "SRTM Analysis - Ilha de Florianópolis",
+    "description": "Análise de inclinação por bairro da ILHA de Florianópolis usando dados SRTM da NASA",
     "source": "NASA SRTM",
-    "date": "2025-10-05T03:07:30.245995",
-    "total_features": 49,
-    "bounds_florianopolis": {
-      "west": -48.7242431,
-      "south": -27.917059,
-      "east": -48.3585929,
-      "north": -27.3804967
+    "date": "2025-10-05T03:29:40.163333",
+    "total_features": 46,
+    "bounds_ilha_florianopolis": {
+      "west": -48.65,
+      "south": -27.85,
+      "east": -48.4,
+      "north": -27.4
     },
     "srtm_analysis": {
-      "total_bairros": 49,
+      "total_bairros_ilha": 46,
+      "total_bairros_original": 49,
+      "bairros_filtrados": 46,
       "classificacao_distribuicao": {
         "Alta": 29,
         "Média": 19,
