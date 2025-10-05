@@ -581,14 +581,14 @@
       "type": "Feature",
       "properties": {
         "bairro": "Saco dos Limões",
-        "inclinacao_max": 35.3,
-        "inclinacao_media": 9.47,
+        "inclinacao_max": 38.23,
+        "inclinacao_media": 12.78,
         "inclinacao_min": 0.0,
         "classificacao_risco": "Alta",
-        "distancia_centro_km": 2.89,
+        "distancia_centro_km": 4.77,
         "srtm_metrics": {
-          "max_slope_deg": 35.3,
-          "mean_slope_deg": 9.47,
+          "max_slope_deg": 38.23,
+          "mean_slope_deg": 12.78,
           "min_slope_deg": 0.0,
           "risk_level": "Alta"
         }
@@ -596,8 +596,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -48.534344,
-          -27.608268
+          -48.522286,
+          -27.621961
         ]
       }
     },
@@ -1110,7 +1110,7 @@
     "name": "SRTM Analysis - Ilha de Florianópolis",
     "description": "Análise de inclinação por bairro da ILHA de Florianópolis usando dados SRTM da NASA",
     "source": "NASA SRTM",
-    "date": "2025-10-05T03:29:40.163333",
+    "date": "2025-10-05T03:45:10.027401",
     "total_features": 46,
     "bounds_ilha_florianopolis": {
       "west": -48.65,
@@ -1128,7 +1128,7 @@
         "Crítica": 1
       },
       "inclinacao_max_geral": 55.29,
-      "inclinacao_media_geral": 6.492040816326531
+      "inclinacao_media_geral": 6.560816326530612
     }
   }
 }
