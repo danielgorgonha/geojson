@@ -939,4 +939,138 @@
         }
       },
       "geometry": {
- 
+        "type": "Point",
+        "coordinates": [
+          -48.520376,
+          -27.657679
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Tapera",
+        "inclinacao_max": 37.84,
+        "inclinacao_media": 10.15,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Alta",
+        "distancia_centro_km": 21.56,
+        "cor": "orange",
+        "visibilidade": "hidden",
+        "tamanho": 6,
+        "srtm_metrics": {
+          "max_slope_deg": 37.84,
+          "mean_slope_deg": 10.15,
+          "min_slope_deg": 0.0,
+          "risk_level": "Alta"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.561275,
+          -27.788064
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Morro das Pedras",
+        "inclinacao_max": 33.4,
+        "inclinacao_media": 5.58,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Alta",
+        "distancia_centro_km": 14.34,
+        "cor": "orange",
+        "visibilidade": "hidden",
+        "tamanho": 6,
+        "srtm_metrics": {
+          "max_slope_deg": 33.4,
+          "mean_slope_deg": 5.58,
+          "min_slope_deg": 0.0,
+          "risk_level": "Alta"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.50655,
+          -27.714329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "bairro": "Caieira da Barra do Sul",
+        "inclinacao_max": 37.15,
+        "inclinacao_media": 9.41,
+        "inclinacao_min": 0.0,
+        "classificacao_risco": "Alta",
+        "distancia_centro_km": 24.77,
+        "cor": "orange",
+        "visibilidade": "hidden",
+        "tamanho": 6,
+        "srtm_metrics": {
+          "max_slope_deg": 37.15,
+          "mean_slope_deg": 9.41,
+          "min_slope_deg": 0.0,
+          "risk_level": "Alta"
+        }
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -48.56388,
+          -27.816976
+        ]
+      }
+    }
+  ],
+  "properties": {
+    "name": "SRTM Analysis - Ilha de Florianópolis",
+    "description": "Análise de inclinação por bairro da ILHA de Florianópolis usando dados SRTM da NASA",
+    "source": "NASA SRTM",
+    "date": "2025-10-05T04:25:16.380386",
+    "total_features": 38,
+    "bounds_ilha_florianopolis": {
+      "west": -48.65,
+      "south": -27.85,
+      "east": -48.4,
+      "north": -27.4
+    },
+    "classificacao_cores": {
+      "critica": {
+        "cor": "red",
+        "visibilidade": "visible",
+        "tamanho": 8,
+        "descricao": "Risco Crítico - Inclinação > 15°"
+      },
+      "alta": {
+        "cor": "orange",
+        "visibilidade": "hidden",
+        "tamanho": 6,
+        "descricao": "Risco Alto - Inclinação 5°-15°"
+      },
+      "media": {
+        "cor": "green",
+        "visibilidade": "hidden",
+        "tamanho": 4,
+        "descricao": "Risco Médio - Inclinação 0°-5°"
+      }
+    },
+    "srtm_analysis": {
+      "total_bairros_ilha": 38,
+      "total_bairros_original": 49,
+      "bairros_filtrados": 38,
+      "classificacao_distribuicao": {
+        "Alta": 29,
+        "Média": 19,
+        "Crítica": 1
+      },
+      "inclinacao_max_geral": 55.29,
+      "inclinacao_media_geral": 6.492040816326531
+    }
+  }
+}
