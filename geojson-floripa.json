@@ -10,6 +10,9 @@
         "inclinacao_min": 0.0,
         "classificacao_risco": "Alta",
         "distancia_centro_km": 22.8,
+        "cor": "orange",
+        "visibilidade": "hidden",
+        "tamanho": 6,
         "srtm_metrics": {
           "max_slope_deg": 33.02,
           "mean_slope_deg": 7.58,
@@ -34,6 +37,9 @@
         "inclinacao_min": 0.0,
         "classificacao_risco": "Média",
         "distancia_centro_km": 20.6,
+        "cor": "green",
+        "visibilidade": "hidden",
+        "tamanho": 4,
         "srtm_metrics": {
           "max_slope_deg": 31.46,
           "mean_slope_deg": 2.77,
@@ -58,6 +64,9 @@
         "inclinacao_min": 0.0,
         "classificacao_risco": "Média",
         "distancia_centro_km": 16.24,
+        "cor": "green",
+        "visibilidade": "hidden",
+        "tamanho": 4,
         "srtm_metrics": {
           "max_slope_deg": 26.63,
           "mean_slope_deg": 1.21,
@@ -82,6 +91,9 @@
         "inclinacao_min": 0.0,
         "classificacao_risco": "Média",
         "distancia_centro_km": 23.05,
+        "cor": "green",
+        "visibilidade": "hidden",
+        "tamanho": 4,
         "srtm_metrics": {
           "max_slope_deg": 24.9,
           "mean_slope_deg": 1.97,
@@ -106,6 +118,9 @@
         "inclinacao_min": 0.0,
         "classificacao_risco": "Média",
         "distancia_centro_km": 17.85,
+        "cor": "green",
+        "visibilidade": "hidden",
+        "tamanho": 4,
         "srtm_metrics": {
           "max_slope_deg": 9.46,
           "mean_slope_deg": 1.27,
@@ -130,6 +145,9 @@
         "inclinacao_min": 0.0,
         "classificacao_risco": "Média",
         "distancia_centro_km": 18.27,
+        "cor": "green",
+        "visibilidade": "hidden",
+        "tamanho": 4,
         "srtm_metrics": {
           "max_slope_deg": 30.1,
           "mean_slope_deg": 2.2,
@@ -154,6 +172,9 @@
         "inclinacao_min": 0.0,
         "classificacao_risco": "Alta",
         "distancia_centro_km": 11.63,
+        "cor": "orange",
+        "visibilidade": "hidden",
+        "tamanho": 6,
         "srtm_metrics": {
           "max_slope_deg": 37.5,
           "mean_slope_deg": 9.97,
@@ -178,6 +199,9 @@
         "inclinacao_min": 0.0,
         "classificacao_risco": "Alta",
         "distancia_centro_km": 10.44,
+        "cor": "orange",
+        "visibilidade": "hidden",
+        "tamanho": 6,
         "srtm_metrics": {
           "max_slope_deg": 37.01,
           "mean_slope_deg": 5.73,
@@ -202,6 +226,9 @@
         "inclinacao_min": 0.0,
         "classificacao_risco": "Alta",
         "distancia_centro_km": 11.94,
+        "cor": "orange",
+        "visibilidade": "hidden",
+        "tamanho": 6,
         "srtm_metrics": {
           "max_slope_deg": 35.12,
           "mean_slope_deg": 8.62,
@@ -226,6 +253,9 @@
         "inclinacao_min": 0.0,
         "classificacao_risco": "Alta",
         "distancia_centro_km": 18.17,
+        "cor": "orange",
+        "visibilidade": "hidden",
+        "tamanho": 6,
         "srtm_metrics": {
           "max_slope_deg": 32.1,
           "mean_slope_deg": 9.2,
@@ -250,6 +280,9 @@
         "inclinacao_min": 0.0,
         "classificacao_risco": "Alta",
         "distancia_centro_km": 16.29,
+        "cor": "orange",
+        "visibilidade": "hidden",
+        "tamanho": 6,
         "srtm_metrics": {
           "max_slope_deg": 30.51,
           "mean_slope_deg": 6.8,
@@ -274,6 +307,9 @@
         "inclinacao_min": 0.0,
         "classificacao_risco": "Alta",
         "distancia_centro_km": 20.67,
+        "cor": "orange",
+        "visibilidade": "hidden",
+        "tamanho": 6,
         "srtm_metrics": {
           "max_slope_deg": 39.26,
           "mean_slope_deg": 8.1,
@@ -298,6 +334,9 @@
         "inclinacao_min": 0.0,
         "classificacao_risco": "Alta",
         "distancia_centro_km": 13.26,
+        "cor": "orange",
+        "visibilidade": "hidden",
+        "tamanho": 6,
         "srtm_metrics": {
           "max_slope_deg": 42.81,
           "mean_slope_deg": 6.46,
@@ -322,6 +361,9 @@
         "inclinacao_min": 0.0,
         "classificacao_risco": "Média",
         "distancia_centro_km": 10.88,
+        "cor": "green",
+        "visibilidade": "hidden",
+        "tamanho": 4,
         "srtm_metrics": {
           "max_slope_deg": 35.89,
           "mean_slope_deg": 2.29,
@@ -346,6 +388,9 @@
         "inclinacao_min": 0.0,
         "classificacao_risco": "Média",
         "distancia_centro_km": 19.08,
+        "cor": "green",
+        "visibilidade": "hidden",
+        "tamanho": 4,
         "srtm_metrics": {
           "max_slope_deg": 12.77,
           "mean_slope_deg": 2.09,
@@ -370,6 +415,9 @@
         "inclinacao_min": 0.0,
         "classificacao_risco": "Alta",
         "distancia_centro_km": 2.82,
+        "cor": "orange",
+        "visibilidade": "hidden",
+        "tamanho": 6,
         "srtm_metrics": {
           "max_slope_deg": 35.98,
           "mean_slope_deg": 7.62,
@@ -394,6 +442,9 @@
         "inclinacao_min": 0.0,
         "classificacao_risco": "Alta",
         "distancia_centro_km": 0.98,
+        "cor": "orange",
+        "visibilidade": "hidden",
+        "tamanho": 6,
         "srtm_metrics": {
           "max_slope_deg": 47.29,
           "mean_slope_deg": 6.61,
@@ -418,6 +469,9 @@
         "inclinacao_min": 0.0,
         "classificacao_risco": "Alta",
         "distancia_centro_km": 5.6,
+        "cor": "orange",
+        "visibilidade": "hidden",
+        "tamanho": 6,
         "srtm_metrics": {
           "max_slope_deg": 30.53,
           "mean_slope_deg": 8.02,
@@ -442,6 +496,9 @@
         "inclinacao_min": 0.0,
         "classificacao_risco": "Alta",
         "distancia_centro_km": 5.5,
+        "cor": "orange",
+        "visibilidade": "hidden",
+        "tamanho": 6,
         "srtm_metrics": {
           "max_slope_deg": 35.02,
           "mean_slope_deg": 6.77,
@@ -466,6 +523,9 @@
         "inclinacao_min": 0.0,
         "classificacao_risco": "Alta",
         "distancia_centro_km": 5.95,
+        "cor": "orange",
+        "visibilidade": "hidden",
+        "tamanho": 6,
         "srtm_metrics": {
           "max_slope_deg": 30.26,
           "mean_slope_deg": 6.93,
@@ -490,6 +550,9 @@
         "inclinacao_min": 0.0,
         "classificacao_risco": "Média",
         "distancia_centro_km": 2.4,
+        "cor": "green",
+        "visibilidade": "hidden",
+        "tamanho": 4,
         "srtm_metrics": {
           "max_slope_deg": 32.63,
           "mean_slope_deg": 4.7,
@@ -514,6 +577,9 @@
         "inclinacao_min": 0.0,
         "classificacao_risco": "Alta",
         "distancia_centro_km": 7.22,
+        "cor": "orange",
+        "visibilidade": "hidden",
+        "tamanho": 6,
         "srtm_metrics": {
           "max_slope_deg": 35.74,
           "mean_slope_deg": 12.83,
@@ -538,6 +604,9 @@
         "inclinacao_min": 0.0,
         "classificacao_risco": "Alta",
         "distancia_centro_km": 4.05,
+        "cor": "orange",
+        "visibilidade": "hidden",
+        "tamanho": 6,
         "srtm_metrics": {
           "max_slope_deg": 33.06,
           "mean_slope_deg": 10.07,
@@ -562,6 +631,9 @@
         "inclinacao_min": 0.0,
         "classificacao_risco": "Média",
         "distancia_centro_km": 4.83,
+        "cor": "green",
+        "visibilidade": "hidden",
+        "tamanho": 4,
         "srtm_metrics": {
           "max_slope_deg": 22.07,
           "mean_slope_deg": 2.36,
@@ -581,14 +653,17 @@
       "type": "Feature",
       "properties": {
         "bairro": "Saco dos Limões",
-        "inclinacao_max": 38.23,
-        "inclinacao_media": 12.78,
+        "inclinacao_max": 35.3,
+        "inclinacao_media": 9.47,
         "inclinacao_min": 0.0,
         "classificacao_risco": "Alta",
-        "distancia_centro_km": 4.77,
+        "distancia_centro_km": 2.89,
+        "cor": "orange",
+        "visibilidade": "hidden",
+        "tamanho": 6,
         "srtm_metrics": {
-          "max_slope_deg": 38.23,
-          "mean_slope_deg": 12.78,
+          "max_slope_deg": 35.3,
+          "mean_slope_deg": 9.47,
           "min_slope_deg": 0.0,
           "risk_level": "Alta"
         }
@@ -596,8 +671,8 @@
       "geometry": {
         "type": "Point",
         "coordinates": [
-          -48.522286,
-          -27.621961
+          -48.534344,
+          -27.608268
         ]
       }
     },
@@ -610,6 +685,9 @@
         "inclinacao_min": 0.0,
         "classificacao_risco": "Alta",
         "distancia_centro_km": 8.02,
+        "cor": "orange",
+        "visibilidade": "hidden",
+        "tamanho": 6,
         "srtm_metrics": {
           "max_slope_deg": 34.46,
           "mean_slope_deg": 9.54,
@@ -634,6 +712,9 @@
         "inclinacao_min": 0.0,
         "classificacao_risco": "Alta",
         "distancia_centro_km": 3.59,
+        "cor": "orange",
+        "visibilidade": "hidden",
+        "tamanho": 6,
         "srtm_metrics": {
           "max_slope_deg": 55.29,
           "mean_slope_deg": 6.81,
@@ -658,6 +739,9 @@
         "inclinacao_min": 0.0,
         "classificacao_risco": "Alta",
         "distancia_centro_km": 3.2,
+        "cor": "orange",
+        "visibilidade": "hidden",
+        "tamanho": 6,
         "srtm_metrics": {
           "max_slope_deg": 29.83,
           "mean_slope_deg": 9.09,
@@ -682,6 +766,9 @@
         "inclinacao_min": 0.0,
         "classificacao_risco": "Alta",
         "distancia_centro_km": 17.95,
+        "cor": "orange",
+        "visibilidade": "hidden",
+        "tamanho": 6,
         "srtm_metrics": {
           "max_slope_deg": 40.71,
           "mean_slope_deg": 9.27,
@@ -706,6 +793,9 @@
         "inclinacao_min": 0.0,
         "classificacao_risco": "Alta",
         "distancia_centro_km": 10.56,
+        "cor": "orange",
+        "visibilidade": "hidden",
+        "tamanho": 6,
         "srtm_metrics": {
           "max_slope_deg": 35.74,
           "mean_slope_deg": 7.17,
@@ -730,6 +820,9 @@
         "inclinacao_min": 0.0,
         "classificacao_risco": "Média",
         "distancia_centro_km": 8.06,
+        "cor": "green",
+        "visibilidade": "hidden",
+        "tamanho": 4,
         "srtm_metrics": {
           "max_slope_deg": 7.23,
           "mean_slope_deg": 1.45,
@@ -754,6 +847,9 @@
         "inclinacao_min": 0.0,
         "classificacao_risco": "Alta",
         "distancia_centro_km": 5.72,
+        "cor": "orange",
+        "visibilidade": "hidden",
+        "tamanho": 6,
         "srtm_metrics": {
           "max_slope_deg": 38.23,
           "mean_slope_deg": 10.14,
@@ -778,6 +874,9 @@
         "inclinacao_min": 0.0,
         "classificacao_risco": "Alta",
         "distancia_centro_km": 21.26,
+        "cor": "orange",
+        "visibilidade": "hidden",
+        "tamanho": 6,
         "srtm_metrics": {
           "max_slope_deg": 33.57,
           "mean_slope_deg": 9.11,
@@ -802,6 +901,9 @@
         "inclinacao_min": 0.0,
         "classificacao_risco": "Alta",
         "distancia_centro_km": 13.18,
+        "cor": "orange",
+        "visibilidade": "hidden",
+        "tamanho": 6,
         "srtm_metrics": {
           "max_slope_deg": 51.68,
           "mean_slope_deg": 13.6,
@@ -826,6 +928,9 @@
         "inclinacao_min": 0.0,
         "classificacao_risco": "Média",
         "distancia_centro_km": 8.05,
+        "cor": "green",
+        "visibilidade": "hidden",
+        "tamanho": 4,
         "srtm_metrics": {
           "max_slope_deg": 31.12,
           "mean_slope_deg": 3.48,
@@ -834,109 +939,4 @@
         }
       },
       "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.520376,
-          -27.657679
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "bairro": "Tapera",
-        "inclinacao_max": 37.84,
-        "inclinacao_media": 10.15,
-        "inclinacao_min": 0.0,
-        "classificacao_risco": "Alta",
-        "distancia_centro_km": 21.56,
-        "srtm_metrics": {
-          "max_slope_deg": 37.84,
-          "mean_slope_deg": 10.15,
-          "min_slope_deg": 0.0,
-          "risk_level": "Alta"
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.561275,
-          -27.788064
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "bairro": "Morro das Pedras",
-        "inclinacao_max": 33.4,
-        "inclinacao_media": 5.58,
-        "inclinacao_min": 0.0,
-        "classificacao_risco": "Alta",
-        "distancia_centro_km": 14.34,
-        "srtm_metrics": {
-          "max_slope_deg": 33.4,
-          "mean_slope_deg": 5.58,
-          "min_slope_deg": 0.0,
-          "risk_level": "Alta"
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.50655,
-          -27.714329
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "bairro": "Caieira da Barra do Sul",
-        "inclinacao_max": 37.15,
-        "inclinacao_media": 9.41,
-        "inclinacao_min": 0.0,
-        "classificacao_risco": "Alta",
-        "distancia_centro_km": 24.77,
-        "srtm_metrics": {
-          "max_slope_deg": 37.15,
-          "mean_slope_deg": 9.41,
-          "min_slope_deg": 0.0,
-          "risk_level": "Alta"
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.56388,
-          -27.816976
-        ]
-      }
-    }
-  ],
-  "properties": {
-    "name": "SRTM Analysis - Ilha de Florianópolis",
-    "description": "Análise de inclinação por bairro da ILHA de Florianópolis usando dados SRTM da NASA",
-    "source": "NASA SRTM",
-    "date": "2025-10-05T04:12:48.060308",
-    "total_features": 38,
-    "bounds_ilha_florianopolis": {
-      "west": -48.65,
-      "south": -27.85,
-      "east": -48.4,
-      "north": -27.4
-    },
-    "srtm_analysis": {
-      "total_bairros_ilha": 38,
-      "total_bairros_original": 49,
-      "bairros_filtrados": 38,
-      "classificacao_distribuicao": {
-        "Alta": 29,
-        "Média": 19,
-        "Crítica": 1
-      },
-      "inclinacao_max_geral": 55.29,
-      "inclinacao_media_geral": 6.560816326530612
-    }
-  }
-}
+ 
