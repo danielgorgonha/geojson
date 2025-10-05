@@ -912,206 +912,14 @@
           -27.816976
         ]
       }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "bairro": "Abraão",
-        "inclinacao_max": 25.16,
-        "inclinacao_media": 4.4,
-        "inclinacao_min": 0.0,
-        "classificacao_risco": "Média",
-        "distancia_centro_km": 3.74,
-        "srtm_metrics": {
-          "max_slope_deg": 25.16,
-          "mean_slope_deg": 4.4,
-          "min_slope_deg": 0.0,
-          "risk_level": "Média"
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.593524,
-          -27.606328
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "bairro": "Balneário",
-        "inclinacao_max": 14.76,
-        "inclinacao_media": 1.56,
-        "inclinacao_min": 0.0,
-        "classificacao_risco": "Média",
-        "distancia_centro_km": 2.71,
-        "srtm_metrics": {
-          "max_slope_deg": 14.76,
-          "mean_slope_deg": 1.56,
-          "min_slope_deg": 0.0,
-          "risk_level": "Média"
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.581138,
-          -27.579596
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "bairro": "Bom Abrigo",
-        "inclinacao_max": 25.16,
-        "inclinacao_media": 3.21,
-        "inclinacao_min": 0.0,
-        "classificacao_risco": "Média",
-        "distancia_centro_km": 4.13,
-        "srtm_metrics": {
-          "max_slope_deg": 25.16,
-          "mean_slope_deg": 3.21,
-          "min_slope_deg": 0.0,
-          "risk_level": "Média"
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.59494,
-          -27.611804
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "bairro": "Capoeiras",
-        "inclinacao_max": 17.55,
-        "inclinacao_media": 4.76,
-        "inclinacao_min": 0.0,
-        "classificacao_risco": "Média",
-        "distancia_centro_km": 3.14,
-        "srtm_metrics": {
-          "max_slope_deg": 17.55,
-          "mean_slope_deg": 4.76,
-          "min_slope_deg": 0.0,
-          "risk_level": "Média"
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.590008,
-          -27.597333
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "bairro": "Coqueiros",
-        "inclinacao_max": 28.67,
-        "inclinacao_media": 3.84,
-        "inclinacao_min": 0.0,
-        "classificacao_risco": "Média",
-        "distancia_centro_km": 2.95,
-        "srtm_metrics": {
-          "max_slope_deg": 28.67,
-          "mean_slope_deg": 3.84,
-          "min_slope_deg": 0.0,
-          "risk_level": "Média"
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.580844,
-          -27.611202
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "bairro": "Estreito",
-        "inclinacao_max": 16.72,
-        "inclinacao_media": 4.77,
-        "inclinacao_min": 0.0,
-        "classificacao_risco": "Média",
-        "distancia_centro_km": 3.21,
-        "srtm_metrics": {
-          "max_slope_deg": 16.72,
-          "mean_slope_deg": 4.77,
-          "min_slope_deg": 0.0,
-          "risk_level": "Média"
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.59048,
-          -27.58836
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "bairro": "Itaguaçu",
-        "inclinacao_max": 25.16,
-        "inclinacao_media": 3.35,
-        "inclinacao_min": 0.0,
-        "classificacao_risco": "Média",
-        "distancia_centro_km": 4.02,
-        "srtm_metrics": {
-          "max_slope_deg": 25.16,
-          "mean_slope_deg": 3.35,
-          "min_slope_deg": 0.0,
-          "risk_level": "Média"
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.59155,
-          -27.614656
-        ]
-      }
-    },
-    {
-      "type": "Feature",
-      "properties": {
-        "bairro": "Jardim Atlântico",
-        "inclinacao_max": 16.6,
-        "inclinacao_media": 2.74,
-        "inclinacao_min": 0.0,
-        "classificacao_risco": "Média",
-        "distancia_centro_km": 4.28,
-        "srtm_metrics": {
-          "max_slope_deg": 16.6,
-          "mean_slope_deg": 2.74,
-          "min_slope_deg": 0.0,
-          "risk_level": "Média"
-        }
-      },
-      "geometry": {
-        "type": "Point",
-        "coordinates": [
-          -48.596799,
-          -27.575492
-        ]
-      }
     }
   ],
   "properties": {
     "name": "SRTM Analysis - Ilha de Florianópolis",
     "description": "Análise de inclinação por bairro da ILHA de Florianópolis usando dados SRTM da NASA",
     "source": "NASA SRTM",
-    "date": "2025-10-05T03:45:10.027401",
-    "total_features": 46,
+    "date": "2025-10-05T04:12:48.060308",
+    "total_features": 38,
     "bounds_ilha_florianopolis": {
       "west": -48.65,
       "south": -27.85,
@@ -1119,9 +927,9 @@
       "north": -27.4
     },
     "srtm_analysis": {
-      "total_bairros_ilha": 46,
+      "total_bairros_ilha": 38,
       "total_bairros_original": 49,
-      "bairros_filtrados": 46,
+      "bairros_filtrados": 38,
       "classificacao_distribuicao": {
         "Alta": 29,
         "Média": 19,
